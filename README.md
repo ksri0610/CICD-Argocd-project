@@ -1,1 +1,1 @@
-# CICD-Argocd-project
+# mindcircuit13 - SAMPLE APP
