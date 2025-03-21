@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        GIT_REPO_NAME = "cicd-argocd-project"
+        GIT_REPO_NAME = "CICD-Argocd-project"
         GIT_USER_NAME = "ksri0610"
         DOCKERHUB_CREDENTIALS = credentials('docker-cred')
         GITHUB_TOKEN = credentials('githubtoken')
